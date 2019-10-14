@@ -1,6 +1,5 @@
 package behaviorType.mementoPattern;
 
-import org.jetbrains.annotations.NotNull;
 
 /**
  * 发起人（游戏）

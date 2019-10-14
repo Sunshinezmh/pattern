@@ -19,8 +19,4 @@ public class Attachment implements Serializable {
         this.name = name;
     }
 
-    public void download(){
-        System.out.println("下载附件，文件名为" + name);
-
-    }
 }
